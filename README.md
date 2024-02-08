@@ -7,3 +7,5 @@ Another game I created during an online course
 
 # PURPOSE
 - You need to deliver all the packages(blue squares) to the red circle
+
+I attached all the assets of the game in the repository.
